@@ -1,1 +1,1 @@
-### Face detection application create with JS.
+### Face detection application created with JS.
